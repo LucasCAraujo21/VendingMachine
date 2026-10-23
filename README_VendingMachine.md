@@ -2,7 +2,12 @@
 
 **Disciplina:** Compiladores — Prática 3 (Autômatos Finitos)
 
-**Integrantes:** [preencher com os nomes de todos os integrantes do grupo]
+**Integrantes:** 
+Lucas Carvaho de Araújo - 2685975
+Lucas Perrone Borlin Alves - 2548107
+Yume Fernandes Lima - 2646927
+Luiz Filipe Ichiro Ogata - 2652284
+Beatriz Zorato Mendonça - 2414754
 
 **Tema:** validadores e linguagem de comandos para uma máquina de café / vending machine.
 
@@ -203,10 +208,3 @@ O núcleo dos autômatos e do scanner usa `re` e `decimal`, que fazem parte da b
 - comentários e espaços ignorados;
 - erros com linha, coluna e dicas específicas;
 - painel interativo para testes.
-
-## Integrantes
-
-- [Nome completo do integrante 1]
-- [Nome completo do integrante 2]
-- [Nome completo do integrante 3]
-- [Adicionar ou remover linhas conforme o tamanho do grupo]
